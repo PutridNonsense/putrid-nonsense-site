@@ -4,7 +4,10 @@
   "description": "This is the repo for the Putrid Nonsense site currently hosted on Neocities.\r There isn't much there (yet) but things will happen soon enough.",
   "main": "public/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "build": ""
   },
   "repository": {
     "type": "git",
