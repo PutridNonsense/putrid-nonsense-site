@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color:darkslategray;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    margin: 0% 20% 0% 20%;
+}
+
+td, th {
+    border: 1px solid rgb(190,190,190);
+    padding: 10px 20px;
+}
+
+tr:nth-child(even) td {
+    background-color: rgb(160, 160, 160);
+}
+
+tr:nth-child(odd) td {
+    background-color: rgb(105, 105, 105);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+/* visited and unvisited link */
+a:link, a:visited{
+	color: white;   
+}

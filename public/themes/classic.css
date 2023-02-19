@@ -42,18 +42,12 @@ body {
 }
 
 .socials img{
-	width: 4%;
-	height: 4%;
+	width: 5%;
+	height: 5%;
 }
 
-/* unvisited link */
-a:link {
-	color: #9A0D8C;
-	text-decoration: none;
-}
-
-/* visited link */
-a:visited {
+/* visited and unvisited link */
+a:link, a:visited{
 	color: #9A0D8C;
 	text-decoration: none;
 }
