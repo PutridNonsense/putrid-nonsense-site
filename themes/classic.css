@@ -1,0 +1,81 @@
+body {
+	text-align: center;
+	color: #9A0D8C;
+	background-color: #94b8ff;
+	font-family: Shlop;
+	font-size: 40px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.theme{
+	color: black;
+	font-family: "Bungee";
+	font-size: 50%;
+	margin-top: -10px;
+	margin-bottom: -30px;
+	text-align: right;
+}
+
+.title{
+	font-family: 'Bungee';
+	background-color: black;
+	background-image: url("/sparkling_star.gif");
+	font-size: 50%;
+	color: white;
+}
+
+.title img{
+	margin-top: -50px;
+	margin-bottom: -60px;
+	image-rendering: pixelated;
+	width: 25%;
+	height: 25%
+}
+
+.pages{
+	margin-top: 1%;
+}
+
+.socials{
+	margin-top: 2%;
+}
+
+.socials img{
+	width: 4%;
+	height: 4%;
+}
+
+/* unvisited link */
+a:link {
+	color: #9A0D8C;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+	color: #9A0D8C;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+	color: #9A0D3C;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+	color: #B50D00;
+	text-decoration: none;
+}
+
+@font-face {
+	font-family: shlop, "Courier New";
+	src: url(/shlop.ttf);
+}
+
+img{
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+}
