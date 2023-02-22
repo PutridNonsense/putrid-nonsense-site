@@ -1,0 +1,19 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+}
+
+h2, h3, a, p{
+    font-size: medium;
+}
+
+h3{
+    margin-left: 50px
+}
+
+a, p{
+    margin-left: 100px
+}
