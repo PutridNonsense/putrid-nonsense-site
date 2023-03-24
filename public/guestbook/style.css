@@ -1,0 +1,30 @@
+body{
+	background-color: rgb(80, 80, 80);
+}
+
+a{
+	margin-left: 20%;
+}
+
+a:link, a:visited{
+	color: white;
+}
+
+.content{
+	background-color:grey;
+	margin: 1% 20% 1% 20%;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	border: 10px solid transparent;
+	border-image: url(trim.png) 8 round;
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	font-size: 50px;
+}
+
+.page{
+	margin: 0px, 0px, 0px, 0px;
+}
+
+.comingSoon{
+	text-align: center;
+}

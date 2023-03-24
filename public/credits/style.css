@@ -11,9 +11,23 @@ h2, h3, a, p{
 }
 
 h3{
-    margin-left: 50px
+    margin-left: 50px;
 }
 
 a, p{
-    margin-left: 100px
+    margin-left: 100px;
+}
+
+hr{
+    margin-left: 150px;
+    margin-right: 150px;
+    color: rgb(235, 235, 235);
+}
+
+.credits{
+    margin-block: -40px;
+}
+
+.back{
+    margin-left: 0px;
 }
