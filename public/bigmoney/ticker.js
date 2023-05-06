@@ -1,0 +1,1 @@
+//document.getElementsById("ticker_element").innerHTML = "New text!";
