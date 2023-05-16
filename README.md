@@ -1,6 +1,5 @@
-# Putrid Nonsense Neocities Site
+# Putrid Nonsense Site
 
-This is the repo for the Putrid Nonsense site currently hosted on Neocities.
-There isn't much there (yet) but things will happen soon enough.
+This is the repo for the Putrid Nonsense site currently hosted on Github Pages.
 
-Anything on the master branch can be seen at: https://putrid-nonsense.neocities.org/
+Anything on the master branch can be seen at: https://putridnonsense.com/
