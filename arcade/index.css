@@ -12,6 +12,10 @@ table {
     margin: 0% auto 0% auto;
 }
 
+img{
+    max-width: 600px;
+}
+
 td, th {
     border: 1px solid rgb(190,190,190);
     padding: 10px 10px;
