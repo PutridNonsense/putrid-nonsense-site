@@ -1,7 +1,7 @@
 body {
 	text-align: center;
-	color: #9A0D8C;
-	background-color: #94b8ff;
+	color: #bb74b4;
+	background-color: #424853;
 	font-family: Shlop, monospace;
 	font-size: 40px;
 	margin-left: 100px;
@@ -13,7 +13,7 @@ body {
 	font-family: "Bungee";
 	font-size: 50%;
 	margin-top: -10px;
-	margin-bottom: -30px;
+	margin-bottom: -10px;
 	text-align: right;
 }
 
@@ -23,6 +23,7 @@ body {
 	background-image: url("/sparkling_star.gif");
 	font-size: 50%;
 	color: white;
+	border: solid #818181;
 }
 
 .title img{
@@ -36,18 +37,24 @@ body {
 }
 
 .socials{
-	margin-top: 2%;
+	margin-top: 1%;
+	background-color: #403b47;
+	border: solid #5e425b;
 }
 
 .socials img{
 	width: 86px;
+	margin-top: 1%;
+	margin-bottom: 0.5%;
 }
 
+/* visited and unvisited link */
 a:link, a:visited, a:hover{
-	color: #9A0D8C;
+	color: #bb74b4;
 	text-decoration: none;
 }
 
+/* selected link */
 a:active {
 	color: #B50D00;
 	text-decoration: none;
